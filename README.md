@@ -1,6 +1,8 @@
 # Bike Rental Prediction
 This project implements multiple linear regression to predict the number of bike rentals in Washington, D.C. based on environmental and seasonal factors.
 
+The dataset I used can be found here: https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+
 Click the "Open in Colab" button below to view this project in a Google Colaboratory notebook.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tatianabarbone/bike-rental-prediction/blob/master/bike_rental_prediction.ipynb)
